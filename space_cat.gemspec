@@ -8,11 +8,11 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Steven C."]
   spec.email         = ["stevencch99@gmail.com"]
 
-  spec.summary       = %q{Place holder.}
-  spec.description   = %q{Place holder.}
-  spec.homepage      = 'https://www.stevehchang.tw'
+  spec.summary       = %q{Just a practice and place holder.}
+  spec.description   = %q{Make gem, not war.}
+  spec.homepage      = 'https://www.stevenchang.tw'
   spec.license       = "MIT"
-  spec.date          = '2019-07-22'
+  spec.date          = '2020-04-27'
 
   # spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
